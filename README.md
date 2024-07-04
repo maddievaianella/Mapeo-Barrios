@@ -11,10 +11,10 @@ La falta de acceso a estos servicios básicos no solo impacta la salud y el bien
 ## Objetivo del Proyecto
 Nuestro objetivo principal es crear una plataforma que:
 
-> Mapee los barrios populares de Buenos Aires en los que trabaja la organización TECHO.
-> Visualice la falta de acceso a servicios esenciales en estos barrios.
-> Muestre cómo esta carencia afecta los derechos y la vida diaria de los residentes.
-> Promueva la concienciación y la acción social entre los jóvenes.
+- Mapee los barrios populares de Buenos Aires en los que trabaja la organización TECHO.
+- Visualice la falta de acceso a servicios esenciales en estos barrios.
+- Muestre cómo esta carencia afecta los derechos y la vida diaria de los residentes.
+- Promueva la concienciación y la acción social entre los jóvenes.
 
 ## Público Objetivo
 Este proyecto está dirigido principalmente a jóvenes de 16 a 30 años, quienes pueden ser agentes de cambio en sus comunidades. Creemos que al proporcionarles información clara y accesible, podemos fomentar su participación activa en la lucha por la justicia social y la mejora de las condiciones de vida en los barrios populares.
@@ -22,10 +22,10 @@ Este proyecto está dirigido principalmente a jóvenes de 16 a 30 años, quienes
 ## Solución Propuesta
 Hemos desarrollado esta plataforma con los siguientes componentes clave:
 
-**Mapas Interactivos:** Visualización de la ubicación y condiciones de los barrios populares.
-**Datos y Estadísticas:** Información detallada sobre el acceso a servicios básicos y su impacto.
-**Historias de Vida:** Testimonios de los residentes que aportan una perspectiva humana a los datos.
-**Información sobre TECHO:** Detalles sobre los proyectos de la organización y cómo colaborar.
+- **Mapas Interactivos:** Visualización de la ubicación y condiciones de los barrios populares.
+- **Datos y Estadísticas:** Información detallada sobre el acceso a servicios básicos y su impacto.
+- **Historias de Vida:** Testimonios de los residentes que aportan una perspectiva humana a los datos.
+- **Información sobre TECHO:** Detalles sobre los proyectos de la organización y cómo colaborar.
 
 ## Cómo Contribuir
 Invitamos a todos los interesados a unirse a nuestro proyecto y contribuir de las siguientes maneras:
