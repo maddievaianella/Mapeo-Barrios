@@ -1,0 +1,28 @@
+/* Estilo del fondo de Inicio*/
+
+.inicio {
+    background-image: url("https://copaargentina.s3.amazonaws.com/images/m117220_crop169014_1024x576_proportional_1715611481E653.png");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+    padding: 20px;
+    box-sizing: border-box;
+    opacity: 0.5;
+}
+
+.inicio títulos {
+    margin: 0;
+    font-size: 2em;
+}
+
+.inicio p {
+    margin: 10px 0 0;
+    font-size: 1.2em;
+    color: rgb(0, 0, 0); 
+}
