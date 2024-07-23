@@ -9,10 +9,10 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #000000;
-    color: white;
+    background-color: #000067;
+    color: rgb(169, 206, 244);
     padding: 10px 0;
-    text-align: center;
+    text-align: right;
     z-index: 1000; 
 }
 
@@ -27,10 +27,10 @@
     margin-top: 50px; 
 }
 
-.quienessomos { background-color: #000000; 
-color:#f4f4f4
+.quienes_somos { background-color: #000067; 
+color: rgb(169, 206, 244);
 }
-.contacto { background-color: #000000;
-color:#f4f4f4
+.contacto { background-color: #000067;
+color:rgb(169, 206, 244);
 }
 
