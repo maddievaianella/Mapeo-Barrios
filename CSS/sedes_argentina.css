@@ -1,9 +1,7 @@
-.sedes_argentina {
-    display: inline;
-    background-size: cover;
-    background-position: center;
-    background-attachment: scroll;
-    width: 30%;
-    height: 800px;
-    background-color: rgb(255, 255, 255);
+
+
+
+
+.row {
+    margin-top: 2rem;
 }
