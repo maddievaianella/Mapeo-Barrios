@@ -9,47 +9,20 @@ body {
     background-image: url("https://copaargentina.s3.amazonaws.com/images/m117220_crop169014_1024x576_proportional_1715611481E653.png");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     background-attachment: scroll;
     width: 100%;
-    height: 400px;
-    display: flex;
-    flex-direction:column;
+    height: 30rem;
+    /*display: flex;
+    flex-direction:column;*/
     justify-content: center;
     align-items: center;
     text-align: left;
     margin-top: 1cm;
-
 }
 
 .relative {
     position: relative;
     width: 100%;
     height: 500px; 
-}
-
-.inicio {
-    position: absolute;
-    margin-top: 1cm;
-    width: 100%;
-    height: 100%;
-    background-color: #f0f0f0;
-    z-index: 1;
-}
-
-.inicio {
-    position: absolute;
-    margin-top: 190px;
-    margin-left: 500px;
-    width: 100%;
-    transform: translate(-50%, -50%); /* Ajusta la posición para que el centro del div se alinee con el centro del contenedor */
-    background-color: rgba(0, 0, 0, 0.5); /* Fondo negro semi-transparente */
-    color: white;
-    padding: 0px;
-    z-index: 2; /* Posiciona este div encima de iniciofondo */
-    text-align: justify;
-   
-}
-
-.objetivos {
-    color:#f0f0f0
 }
